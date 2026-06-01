@@ -19,5 +19,11 @@ TECHNOLOGIES USED:
 PROJECT OBJECTIVE:
 To provide a simple amd secure platform for protecting files from unauthorized access while maintaining usability and performance .
 
+LIVE PROTOTYPE:
+A working prototype of cryptex-vault is available online:
+Project Prototype : https://fileencryption-crypto.onrender.com/
+
+The prototype demonstrates secure files encryption and decryption workflows,user interaction,and the overall functionality of the system.
+
 TEAM PROJECT:
 This project was developed as a collaboartive academic project focused on cybersecurity and secure file handling concepts.
